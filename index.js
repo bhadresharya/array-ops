@@ -13,6 +13,8 @@ console.log(a)
 a.shift()
 console.log(a)
 
+console.log(Array.isArray(a))
+
 const b = a.slice()
 console.log(b)
 

@@ -6,6 +6,7 @@ JS Array Methods Explained with Examples
 * unshift() – Insert an element at the beginning of the array.
 * pop() – Remove an element from the end of the array.
 * shift() – Remove an element from the beginning of the array.
+* isArray() – Determine if a value is an array.
 * slice() – Create a shallow copy of an array.
 * length – Determine the size of an array.
 * Array destruction - Assing values of arrays to variables.
