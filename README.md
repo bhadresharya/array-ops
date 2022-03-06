@@ -15,4 +15,5 @@ JS Array Methods Explained with Examples
 * concat() - Concates two arrays.
 * includes() - Returns true/false if given element exists in an array.
 * indexOf() - Returns the index of given element in an array.
-* reverse() - Reverses the elements' positions in the array
+* reverse() - Reverses the elements' positions in the array.
+* sort() - Converts the element types into strings and then sorts them
